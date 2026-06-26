@@ -12,3 +12,6 @@ Nomes esperados:
 
 **03-servico-externo-na-vm.md**
 - projetos-novo.png, projetos-nome.png, uso-r-direcao.png, uso-r-campos.png, uso-r-conectar.png
+
+**04-mac-abrir-primeira-vez.md**
+- mac-arrastar.png, mac-abrir.png
