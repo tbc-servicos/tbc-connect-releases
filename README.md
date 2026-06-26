@@ -14,6 +14,8 @@ Escolha o instalador do seu sistema:
 
 Instale e abra. O app se atualiza sozinho — você não precisa voltar aqui.
 
+> 🍎 **No Mac**, na primeira vez aparece um aviso de segurança. Veja [como abrir no Mac](docs/04-mac-abrir-primeira-vez.md).
+
 ## 2. Configure (uma vez)
 
 1. Escolha sua **VM** e seu **usuário**.
@@ -41,6 +43,9 @@ Clique no seu caso para ver como configurar:
 
 - **[Acessar na VM um serviço externo (VPN do Cliente)](docs/03-servico-externo-na-vm.md)**
   Ex: fazer a VM chegar no Protheus do cliente usando a VPN que está no seu PC.
+
+- **[Mac: abrir o app pela primeira vez](docs/04-mac-abrir-primeira-vez.md)**
+  Como liberar o aviso de segurança da Apple no primeiro uso.
 
 ---
 
