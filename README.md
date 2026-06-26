@@ -29,4 +29,19 @@ Agora é só usar `localhost:<porta>` na VM para chegar no serviço do cliente.
 
 ---
 
+## 📖 Guias passo a passo (com imagens)
+
+Clique no seu caso para ver como configurar:
+
+- **[Como configurar meu acesso](docs/01-configurar-acesso.md)**
+  Primeiro uso: escolher VM, usuário e senha.
+
+- **[Acessar no meu Computador um serviço que roda na VM](docs/02-servico-da-vm-no-computador.md)**
+  Ex: abrir no seu navegador um sistema que está rodando na VM.
+
+- **[Acessar na VM um serviço externo (VPN do Cliente)](docs/03-servico-externo-na-vm.md)**
+  Ex: fazer a VM chegar no Protheus do cliente usando a VPN que está no seu PC.
+
+---
+
 Problemas? Fale com o time de infra da TBC.
