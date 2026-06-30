@@ -9,7 +9,8 @@ Escolha o instalador do seu sistema:
 | Sistema | Download |
 |---------|----------|
 | 🪟 **Windows** | [Baixar .exe](https://github.com/tbc-servicos/tbc-connect-releases/releases/latest) |
-| 🍎 **Mac** | [Baixar .dmg](https://github.com/tbc-servicos/tbc-connect-releases/releases/latest) |
+| 🍎 **Mac** (Apple Silicon / M1, M2…) | [Baixar .dmg](https://github.com/tbc-servicos/tbc-connect-releases/releases/latest) |
+| 🍎 **Mac** (Intel) | [Baixar .dmg](https://github.com/tbc-servicos/tbc-connect-releases/releases/latest) |
 | 🐧 **Linux** | [Baixar .AppImage](https://github.com/tbc-servicos/tbc-connect-releases/releases/latest) |
 
 Instale e abra. O app se atualiza sozinho — você não precisa voltar aqui.
